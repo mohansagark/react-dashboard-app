@@ -1,2 +1,1 @@
-# react-dashboard-app
-This is a personal project to showcase my skillset in react on my portfolio
+This is a dashboard application created to showcase my react work on my portfolio.
